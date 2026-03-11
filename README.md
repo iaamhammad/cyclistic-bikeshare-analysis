@@ -36,7 +36,12 @@ Cyclistic is a Chicago-based bike-share company with over 5,800 bikes and 600 do
 ## Visualizations
 
 ![All Charts](All_chart_in_one_pic.png)
-
+![Total Rides](chart1_total_rides.png)
+![Rides by Day](chart2_rides_by_day.png)
+![Avg Ride Length](chart3_avg_ride_length.png)
+![Rides by Month](chart4_rides_by_month.png)
+![Rides by Hour](chart5_rides_by_hour.png)
+![Top Stations](chart6_top_stations.png)
 ---
 
 ## Top 3 Recommendations
