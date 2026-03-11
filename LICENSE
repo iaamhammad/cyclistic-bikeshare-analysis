@@ -16,7 +16,7 @@ The dataset used in this project is provided by Motivate International Inc.
 under the Divvy Data License Agreement.
 
 Source:
-https://divvy-tripdata.s3.amazonaws.com
+[https://divvy-tripdata.s3.amazonaws.com/index.html](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 The MIT License applies only to the code and analysis in this repository.
 The dataset remains subject to the original Divvy Data License Agreement.
