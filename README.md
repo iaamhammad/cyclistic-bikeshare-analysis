@@ -2,7 +2,7 @@
 ### Google Data Analytics Capstone Project
 
 **Analyst:** Hammad Muhammad  
-**Date:** March 2026  
+**Date:** March 10, 2026  
 **Tools:** Python, SQL (SQLite), Excel  
 **Data:** Divvy Trip Data — March 2025 to February 2026 (3,727,014 rides)
 https://www.kaggle.com/code/iaamhammad/cyclistic-analysis
