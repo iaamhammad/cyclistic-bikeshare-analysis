@@ -5,7 +5,7 @@
 **Date:** March 2026  
 **Tools:** Python, SQL (SQLite), Excel  
 **Data:** Divvy Trip Data — March 2025 to February 2026 (3,727,014 rides)
-
+https://www.kaggle.com/code/iaamhammad/cyclistic-analysis
 ---
 
 ## Business Task
@@ -35,7 +35,6 @@ Cyclistic is a Chicago-based bike-share company with over 5,800 bikes and 600 do
 
 ## Visualizations
 
-![All Charts](All_chart_in_one_pic.png)
 ![Total Rides](chart1_total_rides.png)
 ![Rides by Day](chart2_rides_by_day.png)
 ![Avg Ride Length](chart3_avg_ride_length.png)
@@ -68,7 +67,7 @@ Casuals ride 79% longer per trip (22.24 min vs 12.41 min), meaning they pay sign
 ├── chart4_rides_by_month.png
 ├── chart5_rides_by_hour.png
 ├── chart6_top_stations.png
-└── All_chart_in_one_pic.png
+└── Case_Study_1_How_does_a_bike-share_navigate_speedy_success.pdf
 ```
 
 ---
